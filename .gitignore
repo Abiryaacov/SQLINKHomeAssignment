@@ -1,0 +1,6 @@
+SQLINKHomeAssignment/bin/
+SQLINKHomeAssignment/obj/
+SQLINKHomeAssignment/.vs/
+*.user
+client/node_modules/
+client/dist/
